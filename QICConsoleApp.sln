@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QICConsoleApp", "QICConsoleApp.csproj", "{32962144-7B4A-4081-A82E-651A0D8DD397}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QIC.UnitTest", "QIC.UnitTest\QIC.UnitTest.csproj", "{C91C2993-3509-422E-A235-66B9A298E0F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32962144-7B4A-4081-A82E-651A0D8DD397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32962144-7B4A-4081-A82E-651A0D8DD397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32962144-7B4A-4081-A82E-651A0D8DD397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32962144-7B4A-4081-A82E-651A0D8DD397}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C91C2993-3509-422E-A235-66B9A298E0F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C91C2993-3509-422E-A235-66B9A298E0F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C91C2993-3509-422E-A235-66B9A298E0F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C91C2993-3509-422E-A235-66B9A298E0F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91AC66DC-D5D4-47C7-9F01-6C6974A94F46}
+	EndGlobalSection
+EndGlobal
